@@ -1,1 +1,2 @@
-.idea.log
+cat .gitignore
+*.xml
